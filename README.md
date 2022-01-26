@@ -1,16 +1,28 @@
-### Hi there 👋
+# Hi :wave:
 
-<!--
-**juniporous/juniporous** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Californian web developer. I mainly code in Python and Javascript. I love working with data and am always learning.
 
-Here are some ideas to get you started:
+<details>
+<summary>
+  More stuff about me
+</summary>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## My skills 📜
+
+- JavaScript
+- Python
+- React.js
+- Redux.js
+- HTML, CSS
+- Node.js
+- Flask
+- Express
+- SQLAlchemy
+- Sequelize
+- MySQL
+
+## What I'm currently learning 📚
+
+- Solidity
+
