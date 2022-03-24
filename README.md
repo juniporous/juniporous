@@ -1,7 +1,7 @@
 # Hi :wave:
 
 I'm a Californian web developer. I mainly code in Python and Javascript. I love working with data and am always learning.
-
+Personal site <a href="https://www.anthonyfahden.com/">here</a>
 <details>
 <summary>
   More stuff about me
@@ -25,4 +25,5 @@ I'm a Californian web developer. I mainly code in Python and Javascript. I love 
 ## What I'm currently learning 📚
 
 - Solidity
+- ethers.js
 
